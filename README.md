@@ -12,13 +12,20 @@ MSc student in Autonomous Systems and Intelligent Robots under the EIT Digital p
 
 ### 🎓 Academic journey
 Dual BSc degree in:  
-• Industrial Electronics and Automation Engineering.  
-• Biomedical Engineering.  
+• Industrial Electronics and Automation Engineering (UPC, Barcelona).  
+• Biomedical Engineering (UPC, Barcelona).  
+
+Dual MSc degree in:  
+• Computer Engineering (BME, Budapest).  
+• Mechatronics Engineering (UNITN,Trento).  
+
+EIT Digital Master School: Autonomous Systems and Intelligent Robots.  
 
 ### 💼 Professional Experience
 • **Mathematics Tutor** at a science school, helping students reach their academic goals.  
-• **Embedded Developer** at Creekside AB, a Swedish startup, specializing in real-time systems development.
-
+• **Research Engineer** at KTH, Sweden, developing a multi-dimensional in-ear sensor project.  
+• **Assistant Researcher** at KTH, Sweden, researching in Medical Devices, with the collaboration of Karolinska Institutet (KI).  
+• **Embedded Developer** at Creekside AB, a Swedish startup, specializing in real-time systems development.  
 
 ### 🧐 Curiosities
 • 🧠 Passionate about integrating biomedical applications with robotics to improve human well-being.  
