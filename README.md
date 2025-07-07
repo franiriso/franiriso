@@ -35,7 +35,7 @@ EIT Digital Master School: Autonomous Systems and Intelligent Robots.
 • 🤽‍♂️ 14 years of experience as a competitive water polo player.  
 
 ### 📫 Reach me!
-😊 Feel free to reach out — I’m happy to help! [franiriso@gmail.com](mailto:franiriso@gmail.com)
+😊 Feel free to reach out - I’m happy to help! [franiriso@gmail.com](mailto:franiriso@gmail.com)
 
 
 ## 🛠 Tech Stack & Skills
