@@ -25,7 +25,7 @@ EIT Digital Master School: Autonomous Systems and Intelligent Robots.
 • **Mathematics Tutor** at a science school, helping students reach their academic goals.  
 • **Research Engineer** at KTH, Sweden, developing a multi-dimensional in-ear sensor project.  
 • **Assistant Researcher** at KTH, Sweden, researching in Medical Devices, with the collaboration of Karolinska Institutet (KI).  
-• **Embedded Developer** at Creekside AB, a Swedish startup, specializing in real-time systems development.  
+• **Embedded Developer** at Creekside AB, a Swedish startup, specializing in embedded systems development.  
 
 ### 🧐 Curiosities
 • 🧠 Passionate about integrating biomedical applications with robotics to improve human well-being.  
@@ -51,7 +51,6 @@ EIT Digital Master School: Autonomous Systems and Intelligent Robots.
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 ### Embedded systems
 [![Eagle](https://img.shields.io/badge/Eagle-7B6F9A?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/eagle/overview)
